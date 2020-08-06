@@ -2,7 +2,7 @@
 
     A layout based on grid display to show and makes cards adapt to the windows size.
 
->> From the tutorial [CSS Grid Layout: Haciéndolo Responsivo](https://webdesign.tutsplus.com/es/tutorials/css-grid-layout-going-responsive--cms-27270)
+>> Initial example taken from the tutorial [CSS Grid Layout: Haciéndolo Responsivo](https://webdesign.tutsplus.com/es/tutorials/css-grid-layout-going-responsive--cms-27270)
 
 ## Author
 
